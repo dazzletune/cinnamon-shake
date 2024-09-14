@@ -1,0 +1,17 @@
+{
+    "description": "Shake a window quickly to minimize all other windows, and shake again to restore them. Inspired by the 'Aero Shake' feature of Windows 7.",
+    "name": "Cinnamon Shake",
+    "cinnamon-version": [
+        "6.2",
+        "6.0",
+        "5.8",
+        "5.6",
+        "5.4",
+        "5.2",
+        "5.0",
+        "4.8"
+    ],
+    "uuid": "cinnamon-shake@dazzletune",
+    "version": "1.4.0",
+    "author": "dazzletune"
+}
