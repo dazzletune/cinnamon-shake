@@ -3,8 +3,8 @@ const Main = imports.ui.main;
 const Mainloop = imports.mainloop;
 const Meta = imports.gi.Meta;
 
-const SHAKE_THRESHOLD = 115; // pixels (reduced from 455)
-const SHAKE_INTERVAL = 725; // milliseconds
+const SHAKE_THRESHOLD = 70; // pixels (reduced from 455)
+const SHAKE_INTERVAL = 1150; // milliseconds
 const REQUIRED_SHAKES = 4;
 
 class ShakeExtension {
