@@ -9,7 +9,7 @@ To install:
 2. Extract the files from the .zip file to your ~/.local/share/cinnamon/extensions/ folder
 
 ```bash
-unzip cinnamon-shake-xxx.zip && mv cinnamon-shake-xxx ~/.local/share/cinnamon/extensions/
+unzip cinnamon-shake.zip && mv cinnamon-shake-main ~/.local/share/cinnamon/extensions/
 ```
 
 3. Enable the "Cinnamon Shake" extension in Cinnamon's Extensions section of the System Settings menu.
